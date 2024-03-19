@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:mobile/feature/login/widget/text_form_filed.dart';
 
-import '../widget/app_button.dart';
+import 'app_button.dart';
+import 'text_form_filed.dart';
+
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
